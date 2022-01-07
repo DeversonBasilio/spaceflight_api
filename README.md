@@ -3,6 +3,8 @@
 <p> Este projeto é um desafio back-end, proposto pela Coodesh para testar as minhas habilidades em desenvolvimento.</br>
 A proposta é criar uma api REST no qual possa realizar os dados do projeto <a href="https://api.spaceflightnewsapi.net/v3/documentation"> Space Flight News </a>, uma API pública com informações relacionadas a voos espaciais.</p>
 
+https://www.loom.com/share/35bf2c018623472e956df1ee76e7dd22
+
 <h3>Começando</h3>
 
 Este projeto foi desenvolvido utilizando as seguintes tecnologias:
